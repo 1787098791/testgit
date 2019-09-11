@@ -14,4 +14,6 @@ public class Person {
     private String mom;
     
     private String father;
+
+    private String zx;
 }
