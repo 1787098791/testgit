@@ -13,6 +13,6 @@ public class Person {
 
     private String freedom;
     
-    private String justice;;
+    private String justice;
 
 }
