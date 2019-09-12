@@ -11,8 +11,5 @@ public class Person {
 
     private Integer age;
 
-    private String freedom;
-    
-    private String justice;
-
+    private String mom;
 }
