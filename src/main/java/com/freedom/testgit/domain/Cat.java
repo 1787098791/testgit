@@ -7,4 +7,6 @@ package com.freedom.testgit.domain;
  * @version:
  */
 public class Cat {
+
+    private String name="2";
 }
