@@ -8,5 +8,5 @@ package com.freedom.testgit.domain;
  */
 public class Dog {
 
-    private String name;
+    private String name="旺旺";
 }
