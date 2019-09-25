@@ -10,6 +10,6 @@ public class Cat {
 
     private String name="2";
 
-    private String age="555";
+    private String age="5555";
 
 }
