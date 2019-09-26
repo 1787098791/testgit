@@ -9,4 +9,6 @@ package com.freedom.testgit.domain;
 public class Dog {
 
     private String name="旺旺222";
+
+    private Integer age=2;
 }
