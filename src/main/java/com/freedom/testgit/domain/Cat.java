@@ -8,7 +8,7 @@ package com.freedom.testgit.domain;
 public class Cat {
 
 
-    private String name="2";
+    private String name="25";
 
     private String age="555556666";
 
