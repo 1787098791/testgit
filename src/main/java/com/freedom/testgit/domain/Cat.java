@@ -10,6 +10,6 @@ public class Cat {
 
 
 
-    private String message="主分支";
+    private String message="分支A";
 
 }
