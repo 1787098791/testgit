@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestgitApplication {
 
     public static void main(String[] args) {
-        System.out.println("233");
+        System.out.println("233555");
         SpringApplication.run(TestgitApplication.class, args);
     }
 
